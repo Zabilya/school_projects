@@ -1,0 +1,27 @@
+0)		Write function of lightning by hands, not by kleshni.
+
+1)		Fix missing free() in freer.c for new mallocs. (!!)
+
+3)		Variable borders in trace_ray(). (!)
+
+4)		Lights, shadows, reflections.(!!!)
+
+5)		Norme.(!!!)
+
+6)		Do light for all objects
+
+**********************************************************************************
+
+1)		Info about selected object on screen. (currently in the terminal)
+1.1)		Info about contol keys.
+
+?)		Proper functions comments.
+
+?)		Options flags for more comfortable tuning with binary executing.
+		For example: -l -s flags may turn on light and shadows on scene.
+		Another one: -f %file_name% may be used to parse file to scene, if there would
+			be predefined default scene set.
+
+?)		Scene to file exporter.
+
+?)		File parser, validator, scene inititialization from file.
